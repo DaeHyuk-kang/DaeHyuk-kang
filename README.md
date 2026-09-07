@@ -76,9 +76,9 @@ public class DaeHyuk {
 ### 🚀 Now Building
 
 <div align="center">
-<a href="https://github.com/prgrms-be-adv-devcourse/beadv7_7_earlybird_BE">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=prgrms-be-adv-devcourse&repo=beadv7_7_earlybird_BE&theme=tokyonight&hide_border=true" />
-</a>
+
+[![Earlybird](https://img.shields.io/badge/prgrms--be--adv--devcourse%2Fbeadv7__7__earlybird__BE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prgrms-be-adv-devcourse/beadv7_7_earlybird_BE)
+
 </div>
 
 **얼리버드 (Earlybird)** — 리워드 기반 크라우드펀딩 플랫폼. All-or-Nothing 모델로, 마감까지 목표 금액을 채우면 창작자에게 정산하고 실패하면 후원자 전원에게 일괄 환불합니다.
@@ -99,25 +99,17 @@ public class DaeHyuk {
 | [**GITHUB-RISK-ANALYZER**](https://github.com/DaeHyuk-kang/GITHUB-RISK-ANALYZER) | 활동성·기여자 집중도·이슈 관리로 저장소 건강도를 평가 | `HTML` `JS` |
 | [**SKHU_BOX-Backend**](https://github.com/DaeHyuk-kang/SKHU_BOX-Backend) | SKHUBOX 백엔드 | `Java` `Spring` |
 
-<div align="center">
-
-<a href="https://github.com/DaeHyuk-kang/ocr-parser-java">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DaeHyuk-kang&repo=ocr-parser-java&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DaeHyuk-kang/kosis-etl-java">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DaeHyuk-kang&repo=kosis-etl-java&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DaeHyuk-kang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeHyuk-kang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaeHyuk-kang&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaeHyuk-kang&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaeHyuk-kang&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaeHyuk-kang&theme=tokyonight&utcOffset=9" />
 
 <br/>
 
