@@ -21,14 +21,11 @@ public class DaeHyuk {
     String  role     = "Backend Developer";
     String  course   = "프로그래머스 백엔드 심화 데브코스 7기";
     String[] focus   = { "MSA 설계", "동시성 제어", "검색 · 배치 파이프라인" };
-    String  learning = "Kafka, Observability (Prometheus · Grafana · Zipkin)";
+    String  learning = "Observability (Prometheus · Grafana · Zipkin)";
     String[] motto   = { "동작하는 코드보다, 무너지지 않는 구조",
                          "왜 이렇게 짰는지 설명할 수 있는 코드" };
 }
 ```
-
-> ⚠️ 배포 사이트는 AWS 비용 관리 차원에서 잠시 내려둔 상태입니다.
-> 확인이 필요하시면 언제든 이메일 주세요 📧
 
 ---
 
@@ -61,13 +58,11 @@ public class DaeHyuk {
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Test & Observability**
+**Test**
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A44?style=for-the-badge&logo=docker&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -94,10 +89,13 @@ public class DaeHyuk {
 
 | Project | 한 줄 소개 | Stack |
 |---|---|---|
+| [**SKHU_BOX-Backend**](https://github.com/DaeHyuk-kang/SKHU_BOX-Backend) · [🔗](https://skhubox.vercel.app/) | 성공회대학교 사물함 예약 시스템 백엔드 — 예약 · 배정 · 반납 관리 | `Java` `Spring` `MySQL` `Redis` |
+| [**chat-app**](https://github.com/DaeHyuk-kang/chat-app) · [🔗](https://chat-app-4fo7.onrender.com) | Socket.io 기반 실시간 멀티룸 채팅 앱 | `Node.js` `Docker` |
 | [**ocr-parser-java**](https://github.com/DaeHyuk-kang/ocr-parser-java) | 차량 계근표 OCR 텍스트에서 중량·날짜·차량번호를 정규화해 뽑아내는 파서 | `Java` |
 | [**kosis-etl-java**](https://github.com/DaeHyuk-kang/kosis-etl-java) | KOSIS API 수집 → 정규화 → JSON 적재 ETL 파이프라인 | `Java` |
 | [**GITHUB-RISK-ANALYZER**](https://github.com/DaeHyuk-kang/GITHUB-RISK-ANALYZER) | 활동성·기여자 집중도·이슈 관리로 저장소 건강도를 평가 | `HTML` `JS` |
-| [**SKHU_BOX-Backend**](https://github.com/DaeHyuk-kang/SKHU_BOX-Backend) | SKHUBOX 백엔드 | `Java` `Spring` |
+
+> 🔗 표시는 배포된 데모입니다. SKHUBox 백엔드 서버는 AWS 비용 관리 차원에서 내려둔 상태라 프론트만 열립니다.
 
 ---
 
@@ -105,15 +103,8 @@ public class DaeHyuk {
 
 <div align="center">
 
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaeHyuk-kang&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaeHyuk-kang&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaeHyuk-kang&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaeHyuk-kang&theme=tokyonight&utcOffset=9" />
-
-<br/>
-
-<img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaeHyuk-kang&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaeHyuk-kang&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaeHyuk-kang&theme=tokyonight" />
 
 </div>
 
