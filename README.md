@@ -95,8 +95,6 @@ public class DaeHyuk {
 | [**kosis-etl-java**](https://github.com/DaeHyuk-kang/kosis-etl-java) | KOSIS API 수집 → 정규화 → JSON 적재 ETL 파이프라인 | `Java` |
 | [**GITHUB-RISK-ANALYZER**](https://github.com/DaeHyuk-kang/GITHUB-RISK-ANALYZER) | 활동성·기여자 집중도·이슈 관리로 저장소 건강도를 평가 | `HTML` `JS` |
 
-> 🔗 표시는 배포된 데모입니다. SKHUBox 백엔드 서버는 AWS 비용 관리 차원에서 내려둔 상태라 프론트만 열립니다.
-
 ---
 
 ### 📊 GitHub Stats
